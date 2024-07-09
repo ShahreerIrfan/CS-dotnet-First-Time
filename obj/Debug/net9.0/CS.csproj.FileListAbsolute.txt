@@ -7,6 +7,7 @@ C:\Users\mdsha\OneDrive\Desktop\CS\obj\Debug\net9.0\CS.GeneratedMSBuildEditorCon
 C:\Users\mdsha\OneDrive\Desktop\CS\obj\Debug\net9.0\CS.AssemblyInfoInputs.cache
 C:\Users\mdsha\OneDrive\Desktop\CS\obj\Debug\net9.0\CS.AssemblyInfo.cs
 C:\Users\mdsha\OneDrive\Desktop\CS\obj\Debug\net9.0\CS.csproj.CoreCompileInputs.cache
+C:\Users\mdsha\OneDrive\Desktop\CS\obj\Debug\net9.0\CS.sourcelink.json
 C:\Users\mdsha\OneDrive\Desktop\CS\obj\Debug\net9.0\CS.dll
 C:\Users\mdsha\OneDrive\Desktop\CS\obj\Debug\net9.0\refint\CS.dll
 C:\Users\mdsha\OneDrive\Desktop\CS\obj\Debug\net9.0\CS.pdb

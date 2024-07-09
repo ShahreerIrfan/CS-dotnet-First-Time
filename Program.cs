@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("I am Shahreer Irfan");
+﻿using System;
+class Program{
+    public static void Main(String[] args){
+        Console.Write("Hello World");
+    }
+}
